@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+*.ipynb
+*.log
+demo/weight/*
+results/*
