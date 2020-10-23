@@ -2,12 +2,13 @@
 - Description: TensorFlow Implementation of progressive growing wGAN
 - Function: Generate nodule images with high quality
 - Citation: If you are interested in this respository, you can refer to the following article.
+- Paper link: http://qims.amegroups.com/article/view/43812/html
 
 ```
 Cite this article as: Wang Y, Zhou L, Wang M, Shao C, Shi L, Yang S, Zhang Z, Feng M, Shan F, Liu L. Combination of generative adversarial etwork and convolutional neural network for automatic subcentimeter pulmonary adenocarcinoma classification. Quant Imaging Med Surg 2020;10(6):1249-1264. doi: 10.21037/qims-19-982
 ```
 
-## Respository content
+## Repository content
 
 The weights of pre-trained network can be found in this repository. We also include the related scripts for automatically generating pulmonary nodules. Everyone can easily generate the image of three subtypes pulmonary nodules through simple configuration. In addition, we provide a small anonymous demo dataset.
 
