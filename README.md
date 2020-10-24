@@ -35,7 +35,7 @@ pip install tensorflow-gpu==1.12.0
 - 1-dataset_display.py: transform picture from tfrecords file to png format and display
 - 2-inference.py: the script for the generation of three subtypes pulmonary nodules.
 - imgs/: some demo images
-- demo/weight/: weight of the well-trained GAN. Because of the big size of weight file, this file can be downloaded from Google drive or Baidu drive
+- **demo/weight/(Need to be downloaded from the cloud storage)**: weight of the well-trained GAN. Because of the big size of weight file, this file can be downloaded from Google drive or Baidu drive
   - Google drive：https://drive.google.com/file/d/1gucmt-J_cDgjRbCDNA0ExMibYPRCu2mg/view?usp=sharing
   - Baidu drive：https://pan.baidu.com/s/1IqkRsF5OJBkKlnEJHpaZvQ password：a01v
 - demo/output/: the default output directory
