@@ -23,7 +23,7 @@ tqdm
 Pillow
 numpy
 ```
-We highly reccomend using conda for doing this
+We highly recommend using conda for doing this
 
 ```
 conda create -n nodule python=3.6
