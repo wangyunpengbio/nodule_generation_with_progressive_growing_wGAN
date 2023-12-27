@@ -5,7 +5,10 @@
 - Paper link: http://qims.amegroups.com/article/view/43812/html
 
 ```
-Cite this article as: Wang Y, Zhou L, Wang M, Shao C, Shi L, Yang S, Zhang Z, Feng M, Shan F, Liu L. Combination of generative adversarial etwork and convolutional neural network for automatic subcentimeter pulmonary adenocarcinoma classification. Quant Imaging Med Surg 2020;10(6):1249-1264. doi: 10.21037/qims-19-982
+Cite this article as:
+Wang Y, Zhou L, Wang M, Shao C, Shi L, Yang S, Zhang Z, Feng M, Shan F, Liu L.
+Combination of generative adversarial etwork and convolutional neural network for automatic subcentimeter pulmonary adenocarcinoma classification.
+Quant Imaging Med Surg 2020;10(6):1249-1264. doi: 10.21037/qims-19-982
 ```
 
 ## Repository content
